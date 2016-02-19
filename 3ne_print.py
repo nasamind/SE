@@ -5,7 +5,7 @@ import nltk
 import re
 import time
 
-sampleArray = ['the incredibly intimidating NLP scares people away who are sissies.','Food and Staff member of this Hotel is nice']#here we are talking about NLP
+sampleArray = ['Food and Staff member of this Hotel is nice']#here we are talking about Food and Staff
 
 def processLanguage():
 
