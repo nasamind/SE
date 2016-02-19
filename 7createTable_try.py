@@ -1,3 +1,7 @@
+#by Hariom Yadav
+#Date : 17th Feb '16
+
+
 import sqlite3
 
 conn = sqlite3.connect('knowledgeBase.db')

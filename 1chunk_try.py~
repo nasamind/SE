@@ -3,7 +3,7 @@ import nltk
 import time
 import re
 
-arry = ['Hotel is good', 'Food and staff both are nice']
+arry = ['NLP is good', 'Food and staff both are nice']
 
 def processLang():
     try:

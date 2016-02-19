@@ -1,3 +1,7 @@
+#by Hariom Yadav
+#Date : 16th Feb '16
+
+
 #name entity recognition
 # who we are taking about
 import nltk

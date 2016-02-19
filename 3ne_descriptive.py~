@@ -6,7 +6,7 @@ import nltk
 import re
 import time
 
-sampleArray = ['Food qualtity is average.','Staff member of this Hotel is nice','Really enjoyed staying at the park plaza for 3 weeks.']
+sampleArray = ['Food qualtity is average.','Staff member of this Hotel is nice']
 
 def processLanguage():
 

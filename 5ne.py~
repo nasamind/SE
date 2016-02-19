@@ -42,7 +42,6 @@ def processor(data):
             for eachDesc in descriptives:
                 print eachDesc
 '''
-
     except Exception, e:
         print 'failed in the main try of processor'
         print str(e)

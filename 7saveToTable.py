@@ -1,3 +1,6 @@
+#by Hariom Yadav
+#Date : 17th Feb '16
+
 
 #connecting or creating to dababase, && saving data into table knowledgeBase.. here in this program db name and table name are same..it may be diff also
 
