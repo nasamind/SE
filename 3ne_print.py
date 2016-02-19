@@ -1,3 +1,6 @@
+#by Hariom Yadav
+#Date : 17th Feb '16
+
 #name entity recognition
 # who we are taking about
 #printing name entity
