@@ -1,3 +1,7 @@
+#Hariom yadav, 20th Feb'16
+
+#input : database table that contain positive words & neagative words with +1 and -1 values
+#output: save in list and count/print words
 import sqlite3
 import time
 
